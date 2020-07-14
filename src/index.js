@@ -82,4 +82,6 @@ const styles = StyleSheet.create({
   },
 });
 
+export { Marker, Polyline };
+
 export default MapView;
